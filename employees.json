@@ -1,0 +1,152 @@
+[
+    {
+      "employeeId": "E12345",
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "dateOfBirth": "1990-05-15",
+      "email": "alice.johnson@example.com",
+      "phoneNumber": "555-123-4567",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zipCode": "91234",
+        "country": "USA"
+      }
+    },
+    {
+      "employeeId": "E67890",
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "dateOfBirth": "1985-11-20",
+      "email": "bob.smith@example.com",
+      "phoneNumber": "555-987-6543",
+      "address": {
+        "street": "456 Oak Ave",
+        "city": "Anytown",
+        "state": "CA",
+        "zipCode": "91234",
+        "country": "USA"
+      }
+    },
+    {
+      "employeeId": "E24680",
+      "firstName": "Charlie",
+      "lastName": "Brown",
+      "dateOfBirth": "1992-03-10",
+      "email": "charlie.brown@example.com",
+      "phoneNumber": "555-555-5555",
+      "address": {
+        "street": "789 Pine Ln",
+        "city": "Anytown",
+        "state": "CA",
+        "zipCode": "91234",
+        "country": "USA"
+      }
+    },
+    {
+      "employeeId": "E13579",
+      "firstName": "David",
+      "lastName": "Lee",
+      "dateOfBirth": "1988-08-01",
+      "email": "david.lee@example.com",
+      "phoneNumber": "555-111-2222",
+      "address": {
+        "street": "101 Elm St",
+        "city": "Anytown",
+        "state": "CA",
+        "zipCode": "91234",
+        "country": "USA"
+      }
+    },
+    {
+      "employeeId": "E24681",
+      "firstName": "Emily",
+      "lastName": "Garcia",
+      "dateOfBirth": "1991-04-15",
+      "email": "emily.garcia@example.com",
+      "phoneNumber": "555-222-3333",
+      "address": {
+        "street": "202 Maple Ave",
+        "city": "Anytown",
+        "state": "CA",
+        "zipCode": "91234",
+        "country": "USA"
+      }
+    },
+    {
+      "employeeId": "E35791",
+      "firstName": "Frank",
+      "lastName": "Rodriguez",
+      "dateOfBirth": "1987-09-20",
+      "email": "frank.rodriguez@example.com",
+      "phoneNumber": "555-333-4444",
+      "address": {
+        "street": "303 Cedar Ln",
+        "city": "Anytown",
+        "state": "CA",
+        "zipCode": "91234",
+        "country": "USA"
+      }
+    },
+    {
+      "employeeId": "E46802",
+      "firstName": "Grace",
+      "lastName": "Wilson",
+      "dateOfBirth": "1993-02-10",
+      "email": "grace.wilson@example.com",
+      "phoneNumber": "555-444-5555",
+      "address": {
+        "street": "404 Birch St",
+        "city": "Anytown",
+        "state": "CA",
+        "zipCode": "91234",
+        "country": "USA"
+      }
+    },
+    {
+      "employeeId": "E57913",
+      "firstName": "Henry",
+      "lastName": "Martinez",
+      "dateOfBirth": "1989-07-01",
+      "email": "henry.martinez@example.com",
+      "phoneNumber": "555-555-6666",
+      "address": {
+        "street": "505 Oak Ave",
+        "city": "Anytown",
+        "state": "CA",
+        "zipCode": "91234",
+        "country": "USA"
+      }
+    },
+    {
+      "employeeId": "E68024",
+      "firstName": "Isabella",
+      "lastName": "Taylor",
+      "dateOfBirth": "1990-12-15",
+      "email": "isabella.taylor@example.com",
+      "phoneNumber": "555-666-7777",
+      "address": {
+        "street": "606 Pine Ln",
+        "city": "Anytown",
+        "state": "CA",
+        "zipCode": "91234",
+        "country": "USA"
+      }
+    },
+    {
+      "employeeId": "E79135",
+      "firstName": "Jack",
+      "lastName": "Anderson",
+      "dateOfBirth": "1986-06-20",
+      "email": "jack.anderson@example.com",
+      "phoneNumber": "555-777-8888",
+      "address": {
+        "street": "707 Elm St",
+        "city": "Anytown",
+        "state": "CA",
+        "zipCode": "91234",
+        "country": "USA"
+      }
+    }
+  ]

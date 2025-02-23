@@ -1,0 +1,23 @@
+{
+  "name": "employeemanagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" :"nodemon ./index.js localhost 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshmi495/employeemanagement.git"
+  },
+  "author": "lakshmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshmi495/employeemanagement/issues"
+  },
+  "homepage": "https://github.com/lakshmi495/employeemanagement#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
